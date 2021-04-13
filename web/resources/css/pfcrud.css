@@ -1,0 +1,50 @@
+.ui-widget {
+    font-size: 12px !important;
+
+
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.ui-layout-north {
+    z-index:20 !important;
+    overflow:visible !important;
+
+    margin-left: 20px;
+    margin-right: 20px;
+    
+
+
+}
+.ui-layout-north .ui-layout-unit-content {
+    overflow:visible !important;
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ui-widget-header {
+    text-align: center;
+    text-transform: uppercase;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #18A3CB;
+
+
+}
+.ui-datatable .ui-datatable-footer .footer-section {
+    text-align: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.column {
+    font-weight: bold;
+    background-color: menu;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+
+
+}
+
